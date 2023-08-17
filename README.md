@@ -12,5 +12,10 @@
 - flutter run
 - use emulate phone from android studio
 
-# material.io
+# nice design
 - https://m3.material.io/develop/flutter
+- https://lottiefiles.com/
+- https://www.flaticon.com/fr/icones
+
+# package
+- https://pub.dev/
